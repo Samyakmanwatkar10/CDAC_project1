@@ -1,0 +1,1 @@
+Here in the dataset i took the original and mirrored images of the alphabets sign which acts as the images of signs form right hand and left hand. But still the model was unable to detect the hand landmarks from multiple images which results in poor detection and recogniztion of hands sign.
