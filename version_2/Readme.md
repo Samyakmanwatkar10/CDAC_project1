@@ -1,0 +1,1 @@
+In this model I used the the left hand image dataset, to train the model on the left hand images which can than recognize the sign of the left hand. Using python script I mirrored the original images of the right hand which can act as images of the left hand. The model was only trained on the left hand images data.
