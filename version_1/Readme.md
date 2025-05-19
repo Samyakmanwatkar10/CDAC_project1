@@ -1,1 +1,1 @@
-This was the first version model which was presesnted before the shivnath and sagun sir
+This was the first version model which was presesnted before the shivnath and sagun sir. Working properly with one hand only which is right hand and unable to recognize the sign with left hand. Sir gave some feedbacks and suggestion to improve the performance of the model.
