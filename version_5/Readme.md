@@ -1,0 +1,1 @@
+It is giving response accuratly with both the hands, providing the alphabet on the window after recognition. It is too fast that while performing the signs it detech that and multiple time it is giving wrong responses. If the sign is done properly than it is working fast and accurate. Till now its performace is best but needs some improvement. 
